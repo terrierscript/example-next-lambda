@@ -12,7 +12,7 @@
   },
   "scripts": {
     "dev": "next",
-    "build:next": "next build",
+    "build": "next build",
     "start": "next start"
   },
   "devDependencies": {
