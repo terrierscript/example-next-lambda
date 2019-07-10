@@ -1,11 +1,9 @@
 [build]
   publish = "/"
   command = "yarn next build; mv .next _next "
+  functions = "functions"
 
 [[redirects]]
   from = "/item/:id"
   to = "/item/[id]"
   status = 200
-
-[build]
-  functions = "functions"
