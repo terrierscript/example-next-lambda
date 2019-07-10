@@ -1,5 +1,5 @@
 [build]
-  publish = ".next/serverless/pages"
+  publish = ".next/"
   command = "yarn next build"
 
 [[redirects]]
