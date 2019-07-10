@@ -1,4 +1,3 @@
 [build]
-  base = ".next"
   publish = ".next/serverless"
   command = "yarn next build"
