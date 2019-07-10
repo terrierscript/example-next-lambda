@@ -6,3 +6,6 @@
   from = "/item/:id"
   to = "/item/[id]"
   status = 200
+
+[build]
+  functions = "functions"
