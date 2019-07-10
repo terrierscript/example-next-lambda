@@ -2,6 +2,7 @@
   "dependencies": {
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
+    "middy": "^0.28.3",
     "netlify": "^2.4.6",
     "netlify-cli": "^2.11.23",
     "netlify-lambda": "^1.5.0",
