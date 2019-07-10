@@ -1,3 +1,8 @@
 [build]
   publish = ".next/serverless/pages"
-  command = "yarn next build; ls .next/serverless"
+  command = "yarn next build"
+
+[[redirects]]
+  from = "/item/:id"
+  to = "/item/[id]"
+  status = 200
