@@ -2,6 +2,8 @@
   "dependencies": {
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
+    "netlify": "^2.4.6",
+    "netlify-cli": "^2.11.23",
     "next": "^9.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
